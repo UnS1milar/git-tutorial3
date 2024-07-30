@@ -1,1 +1,2 @@
-console.log('conflict 7')
+console.log('final conflict ')
+
