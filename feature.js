@@ -1,2 +1,2 @@
-console.log('final conflict ')
+console.log('feature 2')
 
